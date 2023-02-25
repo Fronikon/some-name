@@ -1,0 +1,10 @@
+.add {
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.add:hover {
+  background-color: plum;
+  transition: .5s;
+}
